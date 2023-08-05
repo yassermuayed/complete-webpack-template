@@ -1,2 +1,3 @@
-# .
- A complete setup for a starter webpack project
+# Complete Webpack Template
+
+A complete setup for a starter webpack project
