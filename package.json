@@ -1,5 +1,5 @@
 {
-  "name": "complete-webpack-template",
+  "name": "symbolic-chatbot",
   "version": "1.0.0",
   "description": "A template for webpack projects with full customization.",
   "main": "index.js",
